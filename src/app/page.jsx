@@ -45,7 +45,7 @@ export default function Home() {
               <circle cx="17" cy="7" r="1.3" fill="#fff"/>
               <rect x="2" y="2" width="20" height="20" rx="5" fill="none" stroke="#fff" strokeWidth="1.5"/>
             </svg>
-          </a>eor
+          </a>
         </div>
         <div className="mt-8 text-sm text-gray-400 text-center">
           <div>Email: <a href="mailto:justkunal14@gmail.com" className="text-blue-400">justkunal14@gmail.com</a></div>
